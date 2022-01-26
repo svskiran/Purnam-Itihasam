@@ -30,3 +30,4 @@ Room harshanudu => son(suuthudu) => almost 17 puranas
 SukaBrahma => Son of Veda Vyasa
 # Who said bhagavatham to whom
 * sukha brahma said to parakshit in 7 days
+* Bhagavatham is called Sapthaaham
