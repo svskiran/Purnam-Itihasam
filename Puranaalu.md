@@ -1,5 +1,6 @@
 
 # Vyasa bhagavanudu
+* Son of Paraasaradu & Satyavathi
 ## Veedam bhagalu: 
 * Jaimini => purva meemamsa
 * self => Bhrama sutramalulu/ uttara meemamsa
@@ -27,3 +28,5 @@ Adarvana => Sumanthu
 
 Room harshanudu => son(suuthudu) => almost 17 puranas
 SukaBrahma => Son of Veda Vyasa
+# Who said bhagavatham to whom
+* sukha brahma said to parakshit in 7 days
